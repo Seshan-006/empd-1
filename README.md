@@ -1,6 +1,5 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
-
-## DATE: 
+ 
 
 ## AIM:
 
@@ -59,8 +58,7 @@
 
 
 
-### Name: Naveenkumar M
-### Register Number:  212224230183
-
+### Name:SESHAN J
+### Register Number:  212224220092
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
